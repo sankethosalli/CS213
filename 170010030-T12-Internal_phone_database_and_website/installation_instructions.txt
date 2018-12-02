@@ -1,0 +1,22 @@
+Follow Steps in order.
+
+1.Install xampp server.
+
+2.Turn on Apache and Mysql buttons in xampp .
+
+
+3. Extract iitdh folder from source code and add it in your localhost folder.
+PATH: htdocs/iitdh/pp/*.php
+
+
+4. go to directory pp in directory iitdh , 
+and then in settings.php 
+change respective domainname,drootname,dpassword to your computer's domainname(Eg,localhost) , admin name(Eg,root) ,password(Eg,123456) respective. 
+
+NOTE:  initial credentials for root  1)admin=root      2)username=root    3)password=""
+
+
+
+5.You need to open usercreate.php for interface .
+
+6. You can perform operations such as Sign up, login as user ,login as admin by providing following credentials asked in the page. 
